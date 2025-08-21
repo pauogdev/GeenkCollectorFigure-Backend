@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="$PROJECT_DIR$/docs/api.md">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/docs/api.md" />
+              <option name="updatedContent" value="# Documentación de la API de colecciones de figuras&#10;&#10;## Endpoints principales&#10;- /collections&#10;- /figures&#10;&#10;## Descripción&#10;Esta API permite gestionar colecciones y figuras de anime, manga, Marvel, DC y otros.&#10;&#10;## Ejemplo de uso&#10;...&#10;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
